@@ -1,0 +1,22 @@
+.contact-container{
+  text-align: center;
+  height: 80vh;
+  background-color: antiquewhite;
+  justify-content: center;
+  align-items: flex-end;
+  padding-top: 13%;
+}
+
+.contact-info {
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+  
+  .contact-info p {
+    margin: 10px 0;
+  }
+  
+  .contact-info svg {
+    margin-right: 10px;
+    color: #333;
+  }

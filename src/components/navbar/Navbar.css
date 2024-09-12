@@ -1,0 +1,9 @@
+.navbar{
+    height: 70%;
+    background-color: rgb(27, 153, 88);
+}
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    }

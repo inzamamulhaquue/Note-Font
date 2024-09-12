@@ -1,0 +1,20 @@
+.home{
+    height: 80vh;
+    width: 100%;
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: auto;
+}
+
+.home h1{
+    font-size:  60px;
+}
+
+.home-btn{
+    border: none;
+    outline: none;
+    background-color: rgb(66, 15, 79);
+    border-radius: 5px;
+    color: aliceblue !important;
+    font-weight: bold;
+}
